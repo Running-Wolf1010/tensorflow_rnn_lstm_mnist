@@ -1,0 +1,2 @@
+# rnn_lstm_mnist_tensorflow
+tensorflow 搭建rnn神经网络实现手写数字识别，并保存模型
